@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @saitej34
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

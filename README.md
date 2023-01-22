@@ -8,6 +8,7 @@
 - 💬 Ask me about **MERN Stack Development,Programming**
 
 - 📫 How to reach me **ysaiteja34@gmail.com**
+- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/https://github.com/saitej34" target="_blank">

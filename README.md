@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Full Stack Development**
+- 🔭 I’m currently working on **Full Stack Development && WEB 3.0**
 
 - 💬 Ask me about **MERN Stack Development,Programming**
 
